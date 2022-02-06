@@ -1,0 +1,7 @@
+#blobfile==1.2.5
+blobfile==0.11.0
+#tensorflow-gpu==1.15.0
+#six==1.12.0
+#mpi4py
+nvgpu
+gpustat
